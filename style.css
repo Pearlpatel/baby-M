@@ -1,0 +1,22 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color:indianred ;
+
+}
+
+#status
+{
+font-size: 18px;
+color: slategrey;
+}
+canvas{
+    margin: 35px;
+}
